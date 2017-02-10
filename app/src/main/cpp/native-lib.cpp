@@ -3,7 +3,7 @@
 
 extern "C"
 jstring
-Java_com_molidt_cookbookandroid_MainActivity_stringFromJNI(
+Java_com_molidt_cookbook_utils_StringUtil_stringFromJNI(
         JNIEnv* env,
         jobject /* this */) {
     std::string hello = "Hello from C++";

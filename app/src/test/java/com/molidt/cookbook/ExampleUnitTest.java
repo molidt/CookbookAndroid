@@ -1,4 +1,4 @@
-package com.molidt.cookbookandroid;
+package com.molidt.cookbook;
 
 import org.junit.Test;
 

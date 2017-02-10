@@ -1,4 +1,4 @@
-package com.molidt.cookbookandroid;
+package com.molidt.cookbook;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
